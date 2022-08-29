@@ -1,0 +1,12 @@
+{
+  "name": "link-priority-webpack-plugin",
+  "version": "1.0.1",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "jingyu"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
