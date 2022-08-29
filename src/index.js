@@ -1,5 +1,5 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-class PreloadWebpackPlugin {
+class LinkPriorityWebpackPlugin {
   constructor(options) {
     console.log(options)
     this.options = options;
@@ -62,4 +62,4 @@ class PreloadWebpackPlugin {
   }
 }
 
-module.exports = PreloadWebpackPlugin;
+module.exports = LinkPriorityWebpackPlugin;
